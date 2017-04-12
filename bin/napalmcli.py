@@ -4,7 +4,7 @@ import getpass
 import os.path
 from optparse import OptionParser
 import sys
-from napalm_cli.Napalm import Napalm
+from napalm_cli import Napalm
 
 parser = OptionParser()
 parser.add_option("-f", "--file", dest="filename", help="load or write config to file")
