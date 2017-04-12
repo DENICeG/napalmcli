@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: napalmcli
+Version: 0.0.1
+Summary: command line interface for napalm
+Home-page: https://github.com/DENICeG/napalmcli.git
+Author: Thorsten Kohlhepp
+Author-email: kohlhepp at denic.de
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
